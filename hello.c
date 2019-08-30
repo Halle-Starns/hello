@@ -1,5 +1,5 @@
 /**
-  * Author: Halle Starns, Parul Aggarwal, Claire Sorenson, and Sara Qudus
+  * Author: Halle Starns
   * Date: 2019/08/29
   *
   * A simple hello world program in C
@@ -10,8 +10,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Halle Starns, Parul Aggarwal, Claire Sorenson, and Sara Qudus\n");
-  printf("Computer Science\n");
+  printf("Halle Starns\n");
 
   return 0;
 }
