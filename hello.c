@@ -11,6 +11,7 @@
 int main(int argc, char **argv) {
 
   printf("Halle Starns, Parul Aggarwal, Claire Sorenson, and Sara Qudus\n");
+  printf("Computer Science\n");
 
   return 0;
 }
